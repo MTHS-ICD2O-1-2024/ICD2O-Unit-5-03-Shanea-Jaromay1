@@ -29,6 +29,6 @@ function findMovieType() {
   } else {
     // output
     document.getElementById('result').innerHTML = 
-    'Kiddo, your too young for most of the movies.'
+    'Kiddo, you are too young for most of the movies.'
   }
 }
